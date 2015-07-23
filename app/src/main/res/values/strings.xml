@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">趣儿岛</string>
+
+    <string name="title_section1">首页</string>
+    <string name="title_section2">任务</string>
+    <string name="title_section3">公会</string>
+    <string name="title_section4">发现</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">点击</string>
+
+    <string name="action_settings">设置</string>
+</resources>
