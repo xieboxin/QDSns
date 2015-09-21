@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="common-lang-3.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.common/common-lang/3.1.2/ce9c0d7f164edae2be91234964c4e71fbe146ce5/common-lang-3.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twelvemonkeys.common/common-lang/3.1.2/3b29db865963ce4bddf288ab6710841e1e1d9b88/common-lang-3.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

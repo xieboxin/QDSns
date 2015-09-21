@@ -2,18 +2,67 @@
 <items version="2" >
 
     <item
-        jar="D:\Dev\Android\android-sdk-std\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jar="D:\Libraries\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\20041127.091804\17b1ff59f0916ac7bcff704e712415a0d49d468d\commons-codec-20041127.091804.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="17b1ff59f0916ac7bcff704e712415a0d49d468d">
+        <dex dex="E:\myproject\qurdao\QDSns\app\build\intermediates\pre-dexed\debug\commons-codec-20041127.091804-7d6de972791df2380a0bc1178e1e65f1b2949a16.jar" />
+    </item>
+    <item
+        jar="D:\Libraries\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.6.2\25c2196ddf53961b6dc862073187be51cb356fd3\jackson-databind-2.6.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="25c2196ddf53961b6dc862073187be51cb356fd3">
+        <dex dex="E:\myproject\qurdao\QDSns\app\build\intermediates\pre-dexed\debug\jackson-databind-2.6.2-ab1310733937a4483ceaa42e06075b0ea5b8881b.jar" />
+    </item>
+    <item
+        jar="D:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="D:\mis-bruce\git\QDSns\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-5a80657a839d5b80fb547a5e608cd491d84333d2.jar" />
+        <dex dex="E:\myproject\qurdao\QDSns\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-b1cd452c9f7e8f930f0821eb70bd9d7542935010.jar" />
     </item>
     <item
-        jar="D:\mis-bruce\git\QDSns\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jar="D:\Libraries\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.6.2\123f29333b2c6b3516b14252b6e93226bfcd6e37\jackson-core-2.6.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="123f29333b2c6b3516b14252b6e93226bfcd6e37">
+        <dex dex="E:\myproject\qurdao\QDSns\app\build\intermediates\pre-dexed\debug\jackson-core-2.6.2-6ac259af2ee3acfc1d7d4311b40604e57c2e1fc9.jar" />
+    </item>
+    <item
+        jar="D:\Libraries\.gradle\caches\modules-2\files-2.1\com.twelvemonkeys.common\common-lang\3.1.2\ce9c0d7f164edae2be91234964c4e71fbe146ce5\common-lang-3.1.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ce9c0d7f164edae2be91234964c4e71fbe146ce5">
+        <dex dex="E:\myproject\qurdao\QDSns\app\build\intermediates\pre-dexed\debug\common-lang-3.1.2-ba52bb94853542a7f543a8423795ae9b4aa5e1f7.jar" />
+    </item>
+    <item
+        jar="D:\Libraries\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="E:\myproject\qurdao\QDSns\app\build\intermediates\pre-dexed\debug\gson-2.3.1-b90bfb98ded038d17e34e66184ca9f9083a4431b.jar" />
+    </item>
+    <item
+        jar="D:\Libraries\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.7\cd78109020f9ec803ef4e652c17ee4615b03e20a\android-async-http-1.4.7.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cd78109020f9ec803ef4e652c17ee4615b03e20a">
+        <dex dex="E:\myproject\qurdao\QDSns\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.7-644b15f1579ecfdd24bc00cba4e594bf79d6a520.jar" />
+    </item>
+    <item
+        jar="E:\myproject\qurdao\QDSns\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
-        <dex dex="D:\mis-bruce\git\QDSns\app\build\intermediates\pre-dexed\debug\classes-132f50e4566f5c9fddf212097ac33dfb95bd9e95.jar" />
+        <dex dex="E:\myproject\qurdao\QDSns\app\build\intermediates\pre-dexed\debug\classes-61f7dbf4eaba1734de758dcde1e3c960c3ad4150.jar" />
+    </item>
+    <item
+        jar="D:\Libraries\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.6.2\daf24f84fe134864b9e4d0b4e437c81353ac06c2\jackson-annotations-2.6.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="daf24f84fe134864b9e4d0b4e437c81353ac06c2">
+        <dex dex="E:\myproject\qurdao\QDSns\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.6.2-a2190e3e4f3cd4b920b2a278917377adbd10a7ff.jar" />
     </item>
 
 </items>
